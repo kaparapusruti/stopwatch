@@ -1,0 +1,57 @@
+/* body design */
+body{
+    background-color: #134b38;
+    font-family:Arial, Helvetica, sans-serif ;
+    height: 100%;
+   
+}
+
+/* container design */
+.container{
+    width: 800px;
+    margin: 93px auto;
+    color: white;
+    text-align:center;
+  
+
+}
+
+/* 
+img set-up */
+
+.container img{
+border-radius: 20px;
+}
+
+/* heading design */
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 2.6rem;
+    text-transform: capitalize;
+}
+/* 
+display-design */
+#displaytime
+    {
+        font-size: 2rem;
+
+}
+/* buttons design */
+button{
+    width: 150px;
+    height: 50px;
+    background-color: transparent;
+    color: white;
+   border-radius: 5px;
+   margin-right: 10px;
+   outline: none;
+   border: 2px solid wheat;
+}
+/* button-hover */
+button:hover{
+    background: black;
+    color: rgb(13, 134, 134);
+    font-weight: 800;
+    text-transform: capitalize;
+}
